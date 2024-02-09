@@ -8,3 +8,16 @@ Base para a implementação de relógios vetoriais em C
 - Jorge Vinícius Lourenço Santos
 - Matheus de Farias Santos
 - Adailton Moura da Silva
+
+## Como usar
+- Clone o repositório: git clone https://github.com/DCOMP-UFS/relogios-vetoriais-xorj.git
+- Entre na pasta do repo: cd relogios-vetoriais-xorj
+- Compile: mpicc -o rvet rvet.c
+- Execute: mpiexec -n 3 ./rvet
+
+OBS.: É necessário ter a lib de mpi
+
+## Print da execução do código
+
+![image](https://github.com/DCOMP-UFS/relogios-vetoriais-xorj/assets/61337156/ff8be7da-a08a-40fb-8608-e4164d7645db)
+
