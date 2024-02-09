@@ -3,3 +3,8 @@
 ![clocks-vector](https://github.com/DCOMP-UFS/relogios-vetoriais-xorj/assets/61337156/710e6911-10d6-4d66-a94c-02780483516f)
 
 Base para a implementação de relógios vetoriais em C
+
+## Integrantes:  
+.Jorge Vinícius Lourenço Santos
+.Matheus de Farias Santos
+.Adailton Moura da Silva
