@@ -5,6 +5,6 @@
 Base para a implementação de relógios vetoriais em C
 
 ## Integrantes:  
-.Jorge Vinícius Lourenço Santos
-.Matheus de Farias Santos
-.Adailton Moura da Silva
+- Jorge Vinícius Lourenço Santos
+- Matheus de Farias Santos
+- Adailton Moura da Silva
